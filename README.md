@@ -1,12 +1,12 @@
 ### Hey there, I'm Liam 👋
 
-<details>
-  <summary>Click to read more about me, or just check out my repos below</summary>
-  <br />
+#### About me
   
-- 🗺️ Vancouver, British Columbia, Canada
-- 💼 I build Document SDKs and tools at [PDFTron](https://github.com/PDFTron/) (check out my [component library](https://github.com/PDFTron/webviewer-react-toolkit))
-- ✍️ I'm blogging about any topics I find interesting and things I learn on my blog [Developmental](https://elopmental.dev/)
-- 💻 On the side, I've been hooked on Go, including using it to write an interpreter for my pet language project [Dara](https://github.com/liamross/dara)
+🗺️ I live in Vancouver, British Columbia, Canada  
+💼 I build a bunch of cool stuff at [PDFTron](https://github.com/PDFTron/)  
+✍️ I'm blogging about dev stuff at [Developmental](https://elopmental.dev/)  
 
-</details>
+#### What I'm working on
+
+🗒️ Taking [some fancy notes](https://www.notion.so/Machine-Learning-Notes-fe3bb4e0fab84020a151739f6033e785) from the Coursera machine learning course  
+🕹️ Writing an interpreter for my pet language [Dara](https://github.com/liamross/dara)
