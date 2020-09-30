@@ -1,9 +1,6 @@
 ### Hey there, I'm Liam 👋
-
-#### About me
   
-🗺️ I live in Vancouver, British Columbia, Canada  
-🏒 In the Winter I play hockey, ski, and I try to run the rest of the time
+I'm a web dev in Vancouver, British Columbia, Canada 🍁!
 
 #### What I'm working on
 
