@@ -9,4 +9,4 @@ I'm a web dev in Vancouver, British Columbia, Canada 🍁!
 👨‍💻 Writing an interpreter in Go for my pet language [Dara](https://github.com/liamross/dara)  
 ✍️ I'm blogging about dev stuff at [Developmental](https://elopmental.dev/)  
 
-#### What I'm currently learning: [Terraform](https://www.terraform.io)
+What I'm currently learning: [Terraform](https://www.terraform.io)
