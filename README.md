@@ -28,7 +28,7 @@
 
 🔐 **[brink](https://github.com/liamross/brink)** (2023) - API key authentication and rate limiting for Next.js
 
-🔍 **[nextjs-cache-inspector](https://github.com/liamross/nextjs-cache-inspector)** (2025) - Advanced Next.js caching debugger
+💾 **[nextjs-cache-inspector](https://github.com/liamross/nextjs-cache-inspector)** (2025) - Advanced Next.js caching debugger
 
 🧠 **[ai-memory](https://github.com/liamross/ai-memory)** (2025) - Memory ranking system for AI applications
 
