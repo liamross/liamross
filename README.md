@@ -18,28 +18,28 @@
 
 ### Other work
 
-🔍 **[Interchange](https://www.getinterchange.io)** - Turn Any Data Into AI-Ready Knowledge
+**[Interchange](https://www.getinterchange.io)** - Turn Any Data Into AI-Ready Knowledge
 
 ### Open source
 
 > As a rule most of these are not being maintained, perhaps in future I'll have more time (unlikely).
 
-🔱 **[psiagram](https://github.com/liamross/psiagram)** (2018) - Simple diagram framework
+**[psiagram](https://github.com/liamross/psiagram)** (2018) - Simple diagram framework
 
-📜 **[policyscript](https://github.com/policyscript/policyscript)** (2021) - A specialized language for policy definition
+**[policyscript](https://github.com/policyscript/policyscript)** (2021) - A specialized language for policy definition
 
-🔐 **[brink](https://github.com/liamross/brink)** (2023) - API key authentication and rate limiting for Next.js
+**[brink](https://github.com/liamross/brink)** (2023) - API key authentication and rate limiting for Next.js
 
-🛏️ **[rest-well](https://github.com/liamross/rest-well)** (2024) - A schema-based RPC on top of REST
+**[rest-well](https://github.com/liamross/rest-well)** (2024) - A schema-based RPC on top of REST
 
-💾 **[nextjs-cache-inspector](https://github.com/liamross/nextjs-cache-inspector)** (2025) - Advanced Next.js caching debugger
+**[nextjs-cache-inspector](https://github.com/liamross/nextjs-cache-inspector)** (2025) - Advanced Next.js caching debugger
 
-🧠 **[ai-memory](https://github.com/liamross/ai-memory)** (2025) - Memory ranking system for AI applications
+**[ai-memory](https://github.com/liamross/ai-memory)** (2025) - Memory ranking system for AI applications
 
 ### Writing
 
 > Also mostly on hold but I always tell myself to write more.
 
-🎓 **[ML course](https://liamross.notion.site/Machine-Learning-Notes-fe3bb4e0fab84020a151739f6033e785)** (2020) - not bad timing to learn some fundamentals before _everything changed_
+**[ML course](https://liamross.notion.site/Machine-Learning-Notes-fe3bb4e0fab84020a151739f6033e785)** (2020) - not bad timing to learn some fundamentals before _everything changed_
 
-✍️ **[Blog](https://elopmental.dev)** (2020) - I occasionally write about stuff
+**[Blog](https://elopmental.dev)** (2020) - I occasionally write about stuff
