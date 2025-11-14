@@ -24,9 +24,13 @@
 
 > As a rule most of these are not being maintained, perhaps in future I'll have more time (unlikely).
 
+🔱 **[psiagram](https://github.com/liamross/psiagram)** (2018) - Simple diagram framework
+
 📜 **[policyscript](https://github.com/policyscript/policyscript)** (2021) - A specialized language for policy definition
 
 🔐 **[brink](https://github.com/liamross/brink)** (2023) - API key authentication and rate limiting for Next.js
+
+🛏️ **[rest-well](https://github.com/liamross/rest-well)** (2024) - A schema-based RPC on top of REST
 
 💾 **[nextjs-cache-inspector](https://github.com/liamross/nextjs-cache-inspector)** (2025) - Advanced Next.js caching debugger
 
