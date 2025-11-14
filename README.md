@@ -6,15 +6,19 @@
 
 ### What we're building at Withe
 
-[**TalentSync**](https://withe.co/product/talent-sync) - Career platform powering virtual and in-person fairs for government and higher ed
+**[TalentSync](https://withe.co/product/talent-sync)** - Career platform powering virtual and in-person fairs for government and higher ed
 
 - Instant event setup with real-time video interviews and live analytics
 - Eliminated paper resumes - post-event processing now takes minutes instead of days
 
-[**EnrollEQ**](https://withe.co/product/enroll-eq) - Enrollment platform helping colleges convert prospects to applicants
+**[EnrollEQ](https://withe.co/product/enroll-eq)** - Enrollment platform helping colleges convert prospects to applicants
 
 - 24/7 AI chat with personalized program recommendations
 - Human-in-the-loop real-time intervention
+
+### Other work
+
+🔍 **[Interchange](https://www.getinterchange.io)** - Turn Any Data Into AI-Ready Knowledge
 
 ### Open source
 
