@@ -24,6 +24,8 @@
 
 > As a rule most of these are not being maintained, perhaps in future I'll have more time (unlikely).
 
+**[interval-resizer](https://github.com/liamross/interval-resizer)** (2017) - Resize a div at pre-set intervals
+
 **[psiagram](https://github.com/liamross/psiagram)** (2018) - Simple diagram framework
 
 **[policyscript](https://github.com/policyscript/policyscript)** (2021) - A specialized language for policy definition
