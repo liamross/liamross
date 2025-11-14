@@ -30,6 +30,8 @@
 
 **[use-data](https://github.com/liamross/use-data)** (2019) - Basically tanstack-query/swr but earlier and worse
 
+**[dara](https://github.com/liamross/dara)** (2020) - A toy programming language
+
 **[policyscript](https://github.com/policyscript/policyscript)** (2021) - A specialized language for policy definition
 
 **[brink](https://github.com/liamross/brink)** (2023) - API key authentication and rate limiting for Next.js
