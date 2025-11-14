@@ -40,6 +40,6 @@
 
 > Also mostly on hold but I always tell myself to write more.
 
-🎓 **[ML course](https://www.coursera.org/learn/machine-learning)** (2020) - you can see my [notes here](https://liamross.notion.site/Machine-Learning-Notes-fe3bb4e0fab84020a151739f6033e785)
+🎓 **[ML course](https://liamross.notion.site/Machine-Learning-Notes-fe3bb4e0fab84020a151739f6033e785)** (2020) - not bad timing to learn some fundamentals before _everything changed_
 
 ✍️ **[Blog](https://elopmental.dev)** (2020) - I occasionally write about stuff
