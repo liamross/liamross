@@ -2,7 +2,7 @@
 
 💼 Engineering @ [Leap](https://leaphealth.com), building the internal operating system for specialty infusion care.
 
-I’m interested in custom software built close to an organization’s operations—and how AI expands what those systems can do.
+I’m interested in custom software built close to an organization’s operations, and how AI expands what those systems can do.
 
 ### Open source
 
